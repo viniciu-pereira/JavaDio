@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Tabuada",
+            "request": "launch",
+            "mainClass": "Tabuada",
+            "projectName": "SmartTv_4d6888a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParEImpar",
+            "request": "launch",
+            "mainClass": "ParEImpar",
+            "projectName": "SmartTv_4d6888a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Repeticao3",
+            "request": "launch",
+            "mainClass": "Repeticao3",
+            "projectName": "SmartTv_4d6888a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Repeticao2",
+            "request": "launch",
+            "mainClass": "Repeticao2",
+            "projectName": "SmartTv_4d6888a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Repeticao1",
+            "request": "launch",
+            "mainClass": "Repeticao1",
+            "projectName": "SmartTv_4d6888a6"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
