@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Fatorial",
+            "request": "launch",
+            "mainClass": "Fatorial",
+            "projectName": "SmartTv_4d6888a6"
+        },
+        {
+            "type": "java",
             "name": "Launch Tabuada",
             "request": "launch",
             "mainClass": "Tabuada",
