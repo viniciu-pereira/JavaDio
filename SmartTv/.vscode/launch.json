@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Matriz",
+            "request": "launch",
+            "mainClass": "Matriz",
+            "projectName": "SmartTv_4d6888a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "NumerosAleatorios",
+            "projectName": "SmartTv_4d6888a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Consoantes",
+            "request": "launch",
+            "mainClass": "Consoantes",
+            "projectName": "SmartTv_4d6888a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrdemInversa",
+            "request": "launch",
+            "mainClass": "OrdemInversa",
+            "projectName": "SmartTv_4d6888a6"
+        },
+        {
+            "type": "java",
             "name": "Launch Fatorial",
             "request": "launch",
             "mainClass": "Fatorial",
